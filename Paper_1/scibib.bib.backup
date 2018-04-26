@@ -1,0 +1,253 @@
+% scibib.bib
+
+% This is the .bib file used to compile the document "A simple Science
+% template" (scifile.tex).  It is not intended as an example of how to
+% set up your BibTeX file.
+
+@article{Macintyre2016,
+author = {Macintyre, Helen L. and Heaviside, Clare and Neal, Lucy S. and Agnew, Paul and Thornes, John and Vardoulakis, Sotiris},
+doi = {10.1016/j.envint.2016.07.018},
+isbn = {0160-4120},
+issn = {18736750},
+journal = {Environment International},
+keywords = {Air quality,Health impact assessment,PM2.5,Saharan dust},
+mendeley-groups = {Human Health},
+pages = {108--116},
+pmid = {27633498},
+publisher = {Elsevier B.V.},
+title = {Mortality and emergency hospitalizations associated with atmospheric particulate matter episodes across the UK in spring 2014},
+url = {http://dx.doi.org/10.1016/j.envint.2016.07.018},
+volume = {97},
+year = {2016}
+}
+
+@article{Atkinson2015,
+author = {Atkinson, Richard W and Mills, Inga C and Walton, Heather A and Anderson, H Ross},
+doi = {10.1038/jes.2014.63},
+isbn = {1559-064X (Electronic) 1559-0631 (Linking)},
+issn = {1559-0631},
+journal = {Journal of Exposure Science and Environmental Epidemiology},
+keywords = {hospital admissions,mortality,particle components,systematic review,time series},
+mendeley-groups = {Human Health},
+number = {2},
+pages = {208--214},
+pmid = {25227730},
+publisher = {Nature Publishing Group},
+title = {{Fine particle components and healtha systematic review and meta-analysis of epidemiological time series studies of daily mortality and hospital admissions}},
+url = {http://www.nature.com/doifinder/10.1038/jes.2014.63},
+volume = {25},
+year = {2015}
+}
+
+
+@article{Heal2012,
+author = {Heal, Mathew R. and Kumar, Prashant and Harrison, Roy M.},
+doi = {10.1039/c2cs35076a},
+file = {:C$\backslash$:/Users/Sam/Desktop/Ailish/pm2.5{\_}controls.pdf:pdf},
+isbn = {0306-0012; 1460-4744},
+issn = {0306-0012},
+journal = {Chemical Society Reviews},
+mendeley-groups = {PM},
+number = {19},
+pages = {6606},
+pmid = {22660420},
+title = {{Particles, air quality, policy and health}},
+url = {http://xlink.rsc.org/?DOI=c2cs35076a},
+volume = {41},
+year = {2012}
+}
+
+@article{Comeap,
+author = {Comeap},
+file = {:C$\backslash$:/Users/Sam/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Comeap - Unknown - COMEAP SAS.pdf:pdf},
+mendeley-groups = {Human Health},
+title = {{COMEAP SAS}}
+}
+
+@article{HOC2009,
+author = {{Environmental Audit} and Committee},
+file = {:Users/ee15amg/Documents/Papers/HOC{\_}audit.pdf:pdf},
+journal = {Strategy},
+mendeley-groups = {Human Health},
+title = {{Air Quality}},
+url = {https://publications.parliament.uk/pa/cm200910/cmselect/cmenvaud/229/229i.pdf},
+volume = {I},
+year = {2009}
+}
+
+@article{Stedman2004,
+author = {Stedman, John R.},
+doi = {10.1016/j.atmosenv.2003.11.011},
+file = {:Users/ee15amg/Library/Application Support/Mendeley Desktop/Downloaded/Stedman - 2004 - The predicted number of air pollution related deaths in the UK during the August 2003 heatwave.pdf:pdf},
+isbn = {13522310},
+issn = {13522310},
+journal = {Atmospheric Environment},
+keywords = {Health impact assessment,PM10,Photochemical ozone episode},
+mendeley-groups = {Spring Pollution Events Work,Human Health},
+number = {8},
+pages = {1087--1090},
+title = {{The predicted number of air pollution related deaths in the UK during the August 2003 heatwave}},
+volume = {38},
+year = {2004}
+}
+
+
+@article{Vieno2016,
+author = {Vieno, M and Heal, M R and Twigg, M M and MacKenzie, I A and Braban, C F and Lingard, J J N and Ritchie, S and Beck, R C and M{\'{o}}ring, A and Ots, R and {Di Marco}, C F and Nemitz, E and Sutton, M A and Reis, S and et Al, Aas W and M, Abdalmogith S S and Harrison R and U, Binkowski F S and Shankar and Bureau-Veritas and {Charron A}, Degrendele C, Laongsri B and Harrison R M and ENTEC and {Fairlie T D}, Jacob D J, Dibb J E, Alexander B, Avery M A, van Donkelaar A and Zhang L and {Francis X V}, Chemel C, Sokhi R S, Norton E G, Ricketts H M A and Fisher B E A and {Gualtieri G}, Toscano P, Crisci A, Di Lonardo S, Tartaglia M, Vagnoli C, Zaldei A and Gioli B and {Heal M R}, Kumar P and Harrison R M and M, Jones A M and Harrison R and {Kiesewetter G}, Borken-Kleefeld J, Schopp W, Heyes C, Thunis P, Bessagnet B, Terrenoire E, Fagerli H, Nyiri A and Amann M and {Oh H R}, Ho C H, Kim J, Chen D L, Lee S, Choi Y S, Chang L S and Song C K and et Al, Reis S and et Al, Reis S and {Riemer N}, Vogel H, Vogel B, Schell B, Ackermann I, Kessler C and Hass H and et Al, Saha S and et Al, Simpson D and {Tan J H}, Duan J C, Zhen N J, He K B and Hao J M and et Al, Twigg M M and et Al, Vieno M and et Al, Vieno M and {Vieno M}, Heal M R, Williams M L, Carnell E J, Nemitz E, Stedman J R and Reis S and {Voinov A}, Seppelt R, Reis S, Nabel J E M S and Shokravi S and {Yan R C}, Yu S C, Zhang Q Y, Li P F, Wang S, Chen B X and Liu W P and M, Yin J X and Harrison R and {Zhang Q Y}, Yan R C, Fan J W, Yu S C, Yang W D, Li P F, Wang S, Chen B X, Liu W P and Zhang X Y and {Zhong L J}, Louie P K K, Zheng J Y, Yuan Z B, Yue D L, Ho J W K and Lau A K H and et Al, Zhou M G},
+doi = {10.1088/1748-9326/11/4/044004},
+file = {:Users/ee15amg/Library/Application Support/Mendeley Desktop/Downloaded/Vieno et al. - 2016 - The UK particulate matter air pollution episode of March–April 2014 more than Saharan dust.pdf:pdf},
+isbn = {1748-9326},
+issn = {1748-9326},
+journal = {Environmental Research Letters},
+keywords = {atmospheric chemistry transport model,particulate matter,pollution event},
+mendeley-groups = {Spring Pollution Events Work},
+number = {4},
+pages = {044004},
+publisher = {IOP Publishing},
+title = {{The UK particulate matter air pollution episode of March–April 2014: more than Saharan dust}},
+url = {http://stacks.iop.org/1748-9326/11/i=4/a=044004?key=crossref.06bb4335e458cce2a97d6ee366254a7d},
+volume = {11},
+year = {2016}
+}
+
+
+@article{Abbey1999,
+author = {Abbey, David E. and Nishino, Naomi and McDonnell, William F. and Burchette, Raoul J. and Knutsen, Synn{\o}ve F. and Beeson, W. Lawrence and Yang, Jie X.},
+doi = {10.1164/ajrccm.159.2.9806020},
+file = {:Users/ee15amg/Documents/Papers/ABBEY{\_}et{\_}al-1999-.pdf:pdf},
+isbn = {1073-449X (Print)$\backslash$n1073-449X (Linking)},
+issn = {1073449X},
+journal = {American Journal of Respiratory and Critical Care Medicine},
+mendeley-groups = {Human Health},
+number = {2},
+pages = {373--382},
+pmid = {9927346},
+title = {{Long-term inhalable particles and other air pollutants related to mortality in nonsmokers}},
+volume = {159},
+year = {1999}
+}
+
+@misc{Polichetti2009,
+author = {Polichetti, Giuliano and Cocco, Stefania and Spinali, Alessandra and Trimarco, Valentina and Nunziata, Alfredo},
+booktitle = {Toxicology},
+doi = {10.1016/j.tox.2009.04.035},
+file = {:Users/ee15amg/Library/Application Support/Mendeley Desktop/Downloaded/Polichetti et al. - 2009 - Effects of particulate matter (PM10, PM2.5 and PM1) on the cardiovascular system.pdf:pdf},
+isbn = {0300-483X},
+issn = {0300483X},
+keywords = {Air pollution,Cardiovascular disease (CVD),PM exposure,Particulate matter (PM),Short and long-term effects},
+mendeley-groups = {Human Health},
+number = {1-2},
+pages = {1--8},
+pmid = {19379789},
+title = {{Effects of particulate matter (PM10, PM2.5and PM1) on the cardiovascular system}},
+volume = {261},
+year = {2009}
+}
+
+@article{Raaschou-Nielsen2013,
+author = {Raaschou-Nielsen, Ole and Andersen, Zorana J. and Beelen, Rob and Samoli, Evangelia and Stafoggia, Massimo and Weinmayr, Gudrun and Hoffmann, Barbara and Fischer, Paul and Nieuwenhuijsen, Mark J. and Brunekreef, Bert and Xun, Wei W. and Katsouyanni, Klea and Dimakopoulou, Konstantina and Sommar, Johan and Forsberg, Bertil and Modig, Lars and Oudin, Anna and Oftedal, Bente and Schwarze, Per E. and Nafstad, Per and {De Faire}, Ulf and Pedersen, Nancy L. and {\"{O}}stenson, Claes G{\"{o}}ran and Fratiglioni, Laura and Penell, Johanna and Korek, Michal and Pershagen, G{\"{o}}ran and Eriksen, Kirsten T. and S{\o}rensen, Mette and Tj{\o}nneland, Anne and Ellermann, Thomas and Eeftens, Marloes and Peeters, Petra H. and Meliefste, Kees and Wang, Meng and Bueno-de-Mesquita, Bas and Key, Timothy J. and de Hoogh, Kees and Concin, Hans and Nagel, Gabriele and Vilier, Alice and Grioni, Sara and Krogh, Vittorio and Tsai, Ming Yi and Ricceri, Fulvio and Sacerdote, Carlotta and Galassi, Claudia and Migliore, Enrica and Ranzi, Andrea and Cesaroni, Giulia and Badaloni, Chiara and Forastiere, Francesco and Tamayo, Ibon and Amiano, Pilar and Dorronsoro, Miren and Trichopoulou, Antonia and Bamia, Christina and Vineis, Paolo and Hoek, Gerard},
+doi = {10.1016/S1470-2045(13)70279-1},
+file = {:Users/ee15amg/Documents/Papers/ESCAPE.pdf:pdf},
+isbn = {1474-5488 (Electronic)$\backslash$r1470-2045 (Linking)},
+issn = {14702045},
+journal = {The Lancet Oncology},
+mendeley-groups = {Human Health},
+number = {9},
+pages = {813--822},
+pmid = {23849838},
+title = {{Air pollution and lung cancer incidence in 17 European cohorts: Prospective analyses from the European Study of Cohorts for Air Pollution Effects (ESCAPE)}},
+volume = {14},
+year = {2013}
+}
+
+@article{Yu2010,
+author = {Yu, Tai-Yi},
+year = {2010},
+month = {08},
+pages = {2902-2912},
+title = {Characterization of ambient PM2.5 concentrations},
+volume = {44},
+booktitle = {Atmospheric Environment}
+}
+
+
+
+@article{Apte2015,
+author = {Apte, Joshua S. and Marshall, Julian D. and Cohen, Aaron J. and Brauer, Michael},
+title = {Addressing Global Mortality from Ambient PM2.5},
+journal = {Environmental Science \& Technology},
+volume = {49},
+number = {13},
+pages = {8057-8066},
+year = {2015},
+doi = {10.1021/acs.est.5b01236},
+    note ={PMID: 26077815},
+}
+
+@article{Jones2013,
+author = {Jones, P. D. and Harpham, C. and Briffa, K. R.},
+doi = {10.1002/joc.3498},
+file = {:Users/ee15amg/Library/Application Support/Mendeley Desktop/Downloaded/Jones, Harpham, Briffa - 2013 - Lamb weather types derived from reanalysis products.pdf:pdf},
+issn = {08998418},
+journal = {International Journal of Climatology},
+keywords = {British Isles,Lamb weather types,Reanalysis,Weather types},
+mendeley-groups = {Spring Pollution Events Work},
+number = {5},
+pages = {1129--1139},
+title = {{Lamb weather types derived from reanalysis products}},
+volume = {33},
+year = {2013}
+}
+
+
+@article{Lamb1972,
+author = {Lamb H.},
+journal = {Geophysical Memoir}, 
+keywords = {British Isles,Lamb weather types,Reanalysis,Weather types},
+pages = {1861--1971},
+title = {British Isles weather types and a register of daily sequence of circulation patterns}
+volume = {116}
+year = {1972},
+}
+
+
+
+
+
+
+
+
+
+@misc{tth, note = "The package is TTH, available at
+http://hutchinson.belmont.ma.us/tth/ ."}
+
+@misc{use2e, note = "As the mark-up of the \TeX\ source for this
+document makes clear, your file should be coded in \LaTeX
+2${\varepsilon}$, not \LaTeX\ 2.09 or an earlier release.  Also,
+please use the \texttt{article} document class."}
+
+@misc{inclme, note="Among whom are the author of this document.  The
+``real'' references and notes contained herein were compiled using
+B{\small{IB}}\TeX\ from the sample .bib file \texttt{scibib.bib}, the style
+package \texttt{scicite.sty}, and the bibliography style file
+\texttt{Science.bst}."}
+
+
+@misc{nattex, note="One of the equation editors we use, Equation Magic
+(MicroPress Inc., Forest Hills, NY; http://www.micropress-inc.com/),
+interprets native \TeX\ source code and generates an equation as an
+OLE picture object that can then be cut and pasted directly into Word.
+This editor, however, does not handle \LaTeX\ environments (such as
+\texttt{\{array\}} or \texttt{\{eqnarray\}}); it can interpret only
+\TeX\ codes.  Thus, when there's a choice, we ask that you avoid these
+\LaTeX\ calls in displayed math --- for example, that you use the
+\TeX\ \verb+\matrix+ command for ordinary matrices, rather than the
+\LaTeX\ \texttt{\{array\}} environment."}
+
+
+
+
+
+
+
+
